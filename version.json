@@ -1,6 +1,8 @@
 {
-  "version": "2.1.9",
+  "version": "2.1.10",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Latest Asnan Go: auto-updates, child/adult dental chart, Prescription Pad, Smile Gallery, and Review Autopilot.",
-  "mandatory": false
+  "notes": "Reliability fix: updates now verify the download (checksum) before installing, so a dropped connection can never break the app. Plus the 2.1.8 features.",
+  "mandatory": false,
+  "sha256": "43491cd9c1815562c5788c0ce0ede57c0ca76d5b387cc1ce536e275778ef752f",
+  "size": 49726054
 }
