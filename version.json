@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
+  "version": "2.1.9",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Auto-updates, a bigger cleaner dental chart with child/adult dentition, a Prescription Pad, a Before/After Smile Gallery, and Google-review autopilot.",
+  "notes": "Latest Asnan Go: auto-updates, child/adult dental chart, Prescription Pad, Smile Gallery, and Review Autopilot.",
   "mandatory": false
 }
