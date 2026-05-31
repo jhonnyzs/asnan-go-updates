@@ -1,8 +1,8 @@
 {
-  "version": "2.1.11",
+  "version": "2.1.12",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Cleaner dental chart (no empty gap; child teeth now show artwork too), fixed Network panel, and review-after-visit autopilot.",
+  "notes": "Smoother updates: the updater now closes Go Online before swapping, waits for the new file to settle, and shows a centered progress window.",
   "mandatory": false,
-  "sha256": "c48063cfefbb1f5eafcc57338a4f1e316c1fa9dc73591253bd3e876a50957f83",
-  "size": 49729298
+  "sha256": "731191b43348014197d45b79c5f40bffb0f71462e94069e1a32a09541b9bb106",
+  "size": 49729823
 }
