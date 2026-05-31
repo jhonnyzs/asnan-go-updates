@@ -1,8 +1,8 @@
 {
-  "version": "2.1.15",
-  "windows_url": "https://github.com/jhonnyzs/asnan-go-updates/releases/latest/download/AsnanGo.exe",
-  "notes": "Asnan Go update 2.1.15.",
+  "version": "2.1.16",
+  "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
+  "notes": "Team Chat now saves! Messages persist to the shared database \u2014 a team group channel everyone sees, plus 1:1 DMs, with live auto-refresh.",
   "mandatory": false,
-  "sha256": "e5adc0a29f8c2cf13209b77c2aeca05bb1c4f71c9e20724f1761f5fe4789f82b",
-  "size": 49741027
+  "sha256": "b07e565ea1c5c66a1f79f9fcf0363ca3a28ee9c060bcfa26c0ef4623b358f42b",
+  "size": 49743310
 }
