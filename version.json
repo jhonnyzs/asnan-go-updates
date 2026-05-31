@@ -1,8 +1,8 @@
 {
-  "version": "2.1.12",
+  "version": "2.1.13",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Smoother updates: the updater now closes Go Online before swapping, waits for the new file to settle, and shows a centered progress window.",
+  "notes": "Staff can now connect their own PC to the clinic from the login screen (link + pairing code) \u2014 no admin access needed. Admin stays locked.",
   "mandatory": false,
-  "sha256": "731191b43348014197d45b79c5f40bffb0f71462e94069e1a32a09541b9bb106",
-  "size": 49729823
+  "sha256": "1aa803194f1aabab0b78d4649af0cccecb2973a364e41104959839abbc17e41a",
+  "size": 49733106
 }
