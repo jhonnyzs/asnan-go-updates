@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.2",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "v2.2.0 — Run multiple clinics from one install (Admin → Clinics), new Connected Devices panel (PCs + phones with IPs), dental-chart fixes (Palmer notation no longer errors on baby teeth), the New Patient procedure step now works, and login/security hardening.",
+  "notes": "Asnan Go update 2.2.2.",
   "mandatory": false,
-  "sha256": "b2ffdfaaf530b33fbcf37b92dddae9fd702060347dedd8400b578bf0d29aac9a",
-  "size": 49763949
+  "sha256": "fef00f357797e4f141e6fcff17a4f5f5dd1629ac13fb7d295ea9b1253c03fd9e",
+  "size": 49764354
 }
