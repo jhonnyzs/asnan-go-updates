@@ -1,8 +1,8 @@
 {
-  "version": "2.1.13",
+  "version": "2.1.14",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Staff can now connect their own PC to the clinic from the login screen (link + pairing code) \u2014 no admin access needed. Admin stays locked.",
+  "notes": "Zero-config networking: PCs auto-find the clinic server on the same Wi-Fi (and auto-reconnect even if its IP changes), with a one-tap \u201cFind on this network\u201d. Off-network, they fall back to the saved link or local.",
   "mandatory": false,
-  "sha256": "1aa803194f1aabab0b78d4649af0cccecb2973a364e41104959839abbc17e41a",
-  "size": 49733106
+  "sha256": "615dc8e8bdab75525511308f7f7ae8d89ab85ed4051b76d264d381494093a559",
+  "size": 49740606
 }
