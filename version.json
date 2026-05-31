@@ -1,8 +1,8 @@
 {
-  "version": "2.1.10",
+  "version": "2.1.11",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Reliability fix: updates now verify the download (checksum) before installing, so a dropped connection can never break the app. Plus the 2.1.8 features.",
+  "notes": "Cleaner dental chart (no empty gap; child teeth now show artwork too), fixed Network panel, and review-after-visit autopilot.",
   "mandatory": false,
-  "sha256": "43491cd9c1815562c5788c0ce0ede57c0ca76d5b387cc1ce536e275778ef752f",
-  "size": 49726054
+  "sha256": "c48063cfefbb1f5eafcc57338a4f1e316c1fa9dc73591253bd3e876a50957f83",
+  "size": 49729298
 }
