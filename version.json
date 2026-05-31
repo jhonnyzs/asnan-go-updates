@@ -1,8 +1,8 @@
 {
-  "version": "2.1.18",
-  "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Only one Asnan Go runs per PC now \u2014 opening it again just brings the existing window to the front instead of starting a second copy.",
+  "version": "2.2.0",
+  "windows_url": "https://github.com/jhonnyzs/asnan-go-updates/releases/latest/download/AsnanGo.exe",
+  "notes": "Asnan Go update 2.2.0.",
   "mandatory": false,
-  "sha256": "4f55f5e6b3fdedfc5fcd322bc33ef8a82e31f5910888fb1639af53ba0050e621",
-  "size": 49747955
+  "sha256": "b2ffdfaaf530b33fbcf37b92dddae9fd702060347dedd8400b578bf0d29aac9a",
+  "size": 49763949
 }
