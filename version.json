@@ -1,8 +1,8 @@
 {
-  "version": "2.1.17",
+  "version": "2.1.18",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Team Chat got a clean redesign: avatar initials, modern message bubbles, a proper chat header, and a polished input bar.",
+  "notes": "Only one Asnan Go runs per PC now \u2014 opening it again just brings the existing window to the front instead of starting a second copy.",
   "mandatory": false,
-  "sha256": "824e06937ce6f6e98ada52feca1631881c88bb2a37b7457d1274c74a59adec13",
-  "size": 49745122
+  "sha256": "4f55f5e6b3fdedfc5fcd322bc33ef8a82e31f5910888fb1639af53ba0050e621",
+  "size": 49747955
 }
