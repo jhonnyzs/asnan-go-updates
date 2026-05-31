@@ -1,8 +1,8 @@
 {
-  "version": "2.1.16",
+  "version": "2.1.17",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Team Chat now saves! Messages persist to the shared database \u2014 a team group channel everyone sees, plus 1:1 DMs, with live auto-refresh.",
+  "notes": "Team Chat got a clean redesign: avatar initials, modern message bubbles, a proper chat header, and a polished input bar.",
   "mandatory": false,
-  "sha256": "b07e565ea1c5c66a1f79f9fcf0363ca3a28ee9c060bcfa26c0ef4623b358f42b",
-  "size": 49743310
+  "sha256": "824e06937ce6f6e98ada52feca1631881c88bb2a37b7457d1274c74a59adec13",
+  "size": 49745122
 }
