@@ -1,8 +1,8 @@
 {
-  "version": "2.1.14",
-  "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.exe",
-  "notes": "Zero-config networking: PCs auto-find the clinic server on the same Wi-Fi (and auto-reconnect even if its IP changes), with a one-tap \u201cFind on this network\u201d. Off-network, they fall back to the saved link or local.",
+  "version": "2.1.15",
+  "windows_url": "https://github.com/jhonnyzs/asnan-go-updates/releases/latest/download/AsnanGo.exe",
+  "notes": "Asnan Go update 2.1.15.",
   "mandatory": false,
-  "sha256": "615dc8e8bdab75525511308f7f7ae8d89ab85ed4051b76d264d381494093a559",
-  "size": 49740606
+  "sha256": "e5adc0a29f8c2cf13209b77c2aeca05bb1c4f71c9e20724f1761f5fe4789f82b",
+  "size": 49741027
 }
