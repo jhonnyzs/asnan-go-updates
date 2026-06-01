@@ -1,9 +1,9 @@
 {
-  "version": "2.3.10",
+  "version": "2.3.11",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/asnan-go-updates/main/AsnanGo.zip",
   "format": "zip",
-  "notes": "Asnan Go update 2.3.10.",
+  "notes": "Asnan Go update 2.3.11.",
   "mandatory": false,
-  "sha256": "774e2d19fb2a6699bf4ec996c860ff71cf0e4e8385b8e502fcf1eb922ac34d23",
-  "size": 51591907
+  "sha256": "e0e96616a23c84b8d05e486acb24625f9146c48f052e53781e2a30bccd60c668",
+  "size": 51594921
 }
